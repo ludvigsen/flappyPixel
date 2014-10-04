@@ -1,0 +1,22 @@
+{
+  "name": "flappyPixel",
+  "version": "0.0.1",
+  "authors": [
+    "Marius Skaar Ludvigsen <marius.ludvigsen@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bacon": "~0.7.22",
+    "jquery": "~2.1.1",
+    "threejs": "*"
+  }
+}
